@@ -32,22 +32,26 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
 
+<!DOCTYPE html>
+<html>
+    <head>
         <?php include "header.php"; ?>
-    
-    
-        <h1>
-<a name="sistemas-lineares" class="anchor" href="#sistemas-lineares"><span class="octicon octicon-link"></span></a>Sistemas Lineares</h1>
-        <div>
+    </head>
+    <body>
+        <h1>Sistemas Lineares</h1>
+        <div class="wrapper">
             <a href="matriz_2-2.php">
-                 Matriz 2x2
-            </a> <br><a href="matriz_3-3.php"> 
-                 Matriz 3x3
+                <input type="radio" name="matriz" value="2" ><span class="choose"> Matriz 2x2</span>
             </a> <br>
-</div>
+            <a href="matriz_3-3.php"> 
+                <input type="radio" name="matriz" value="3" ><span class="choose"> Matriz 3x3</span>
+            </a> <br>
+        </div>
         <?php include "footer.php";?>
-    
+    </body>
 
-<p></p>
+</html>
+
       </section>
     </div>
 
