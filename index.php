@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<<<<<<< HEAD
-=======
 
   <head>
     <meta charset='utf-8' />
@@ -34,9 +32,6 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
 
-<!DOCTYPE html>
-<html>
->>>>>>> f9ebd459c40204f7ca7cad52521fc4438de4d4bf
     <head>
         <?php include "header.php"; ?>
     </head>
@@ -53,10 +48,6 @@
         <?php include "footer.php";?>
     </body>
 
-<<<<<<< HEAD
-</html>
-=======
-</html>
 
       </section>
     </div>
@@ -73,4 +64,4 @@
 
   </body>
 </html>
->>>>>>> f9ebd459c40204f7ca7cad52521fc4438de4d4bf
+
