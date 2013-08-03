@@ -1,4 +1,4 @@
 algebra-linear
 ==============
 
-calculo de sistemas lineares
+cálculo de sistemas lineares com 2 ou 3 variáveis.
